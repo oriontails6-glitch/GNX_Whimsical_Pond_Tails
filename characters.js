@@ -239,6 +239,13 @@ const DUCKLINGS = [
     role: "Lead Etiquette Expert of Reeds",
     bio: "Endlessly kind yet ridiculously formal, Borjuiss says “pardon me” before splashing and serves bread crumbs like fine high tea."
   },
+    {
+    img: "images/nyes.png",
+    name: "The Caring Comedian",
+    backName: "Nyes",
+    role: "The worrier of clan",
+    bio: "Kind duckling who constantly checks on you before instantly dropping the silliest giggly punchline."
+  },
   {
     img: "images/cousins.jpg",
     name: "The Cousins",
