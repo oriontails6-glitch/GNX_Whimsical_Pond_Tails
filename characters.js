@@ -275,7 +275,7 @@ const DUCKLINGS = [
   bio: "Kind to the core. He carries a tiny glowing pager that goes off at the worst possible moments, then politely excuses himself with ‘One moment please…’ even if no one actually called him."
 }
 ];
-const VILLAINS = [
+const FISHES = [
    {
       img: "images/nemo.png",
       name: "The Overpowered Clownfish",
