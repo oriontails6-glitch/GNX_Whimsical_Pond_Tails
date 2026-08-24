@@ -290,5 +290,6 @@ const DUCKLINGS = [
 const SECTIONS = [
   { id: "elders",    label: "The Elders",                data: ELDERS },
   { id: "family",    label: "Aunts, Uncles & In-Laws",    data: FAMILY },
-  { id: "ducklings", label: "The Duckling Squad",         data: DUCKLINGS }
+  { id: "ducklings", label: "The Duckling Squad",         data: DUCKLINGS },
+   { id: "fishes", label: "The Ocean friends", data: FISHES}
 ];
