@@ -269,9 +269,9 @@ const DUCKLINGS = [
   },
    {
    img: "images/pager.png",
-  name: "The Peacefully Playful Beeper",
+  name: "The Playful Beeper",
   backName: "PAGERWISE",
-  role: "The Always-On-Call Peacemaker",
+  role: "The Always-On-Call fun Pager",
   bio: "Kind to the core and allergic to arguments. He carries a tiny glowing pager that goes off at the worst possible moments, then politely excuses himself with ‘One moment please…’ even if no one actually called him. Never raises his voice, never picks a side — he just beeps, nods, and somehow ends the fight."
 }
 ];
