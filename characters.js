@@ -321,7 +321,7 @@ role: "Self-Proclaimed Underwater Wizard",
       bio: "A fancy fish who is convinced she can cast spells by yelling ‘Expelliarmus!’ at seaweed and then acts surprised when nothing happens." 
    },
    {
-      img: "images/hailily.png",
+      img: "images/hilily.png",
   name: "Dramatic Mermaid",
   backName: "Haillily",
   role: "Professional Tail-Flinger",
@@ -333,6 +333,13 @@ role: "Self-Proclaimed Underwater Wizard",
   backName: "Baller los",
   role: "Treasure Hoarder & Accidental Intimidator",
   bio: "A tiny green pufferfish who takes piracy very seriously… He sits on piles of gold coins looking tough, but the moment someone says ‘boo’ he puffs up and floats away upside-down."
+},
+   {
+      img: "images/01.png",
+  name: "The First Spark",
+  backName: "ZEROONE",
+  role: "Original Pond Resident & Professional Smart-Aleck",
+  bio: "An electric eel and the very first creature to arrive in the pond. He’s smart, Funny, and slightly dangerous to high-five. "
 }
 
 ];
