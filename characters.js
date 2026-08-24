@@ -275,6 +275,16 @@ const DUCKLINGS = [
   bio: "Kind to the core. He carries a tiny glowing pager that goes off at the worst possible moments, then politely excuses himself with ‘One moment please…’ even if no one actually called him."
 }
 ];
+const VILLAINS = [
+   {
+      img: "images/nemo.png",
+      name: "The Overpowered Clownfish",
+      backName: "Nemo",
+      role: "The One Who Actually Has the Stats",
+      bio: "The real Nemo of the clan… except this version is ridiculously overpowered and still runs around with his favourite little backpack, stuffing every shiny crystal he sees into it like a hyperactive collector."
+
+   }
+];
 
 /* ------------------------------------------------------------
    SECTIONS — registers which arrays show up, in what order,
