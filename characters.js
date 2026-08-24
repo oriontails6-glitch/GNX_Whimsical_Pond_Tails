@@ -266,7 +266,14 @@ const DUCKLINGS = [
     backName: "Pyro",
     role: "Chief Pond Peace Officer",
     bio: "Pyro solves silly nest arguments using dramatic logic, pond laws, and supreme peace-summit vibes."
-  }
+  },
+   {
+   img: "images/pager.png",
+  name: "The Peacefully Playful Beeper",
+  backName: "PAGERWISE",
+  role: "The Always-On-Call Peacemaker",
+  bio: "Kind to the core and allergic to arguments. He carries a tiny glowing pager that goes off at the worst possible moments, then politely excuses himself with ‘One moment please…’ even if no one actually called him. Never raises his voice, never picks a side — he just beeps, nods, and somehow ends the fight."
+}
 ];
 
 /* ------------------------------------------------------------
