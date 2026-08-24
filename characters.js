@@ -307,32 +307,32 @@ const FISHES = [
   bio: "A sleek killer shark who takes his job very seriously. swims around with a permanent villainous grin, dramatically sharpening his teeth on rocks. Deep down he’s mostly just dramatic."
 },
    {
-    img: "images/octopus.png",  
+    img: "images/octo.png",  
   name: "The Fortune-Telling Octopus",
   backName: "",
   role: "Official Pond Fortune Teller",
-  bio: "A mysterious brown octopus who predicts the future with absolute confidence… and is wrong about 90% of the time. she waves his tentacles dramatically, declares ‘I sense great danger… or maybe snacks’, then pretends that was exactly what she meant all along."
+  bio: "A mysterious brown octopus who predicts the future with absolute confidence… and is wrong about 90% of the time."
 },
    { 
       img: "images/dory.png",
       name: "The Blue Wizard Fish",
  backName: "哈利波特大", 
 role: "Self-Proclaimed Underwater Wizard", 
-      bio: "A fancy blue fish who is convinced she went to Hogwarts (underwater version). she constantly tries to cast spells by yelling ‘Expelliarmus!’ at seaweed and then acts surprised when nothing happens. Still somehow the most confident and prettiest fish in the clan." 
+      bio: "A fancy fish who is convinced she can cast spells by yelling ‘Expelliarmus!’ at seaweed and then acts surprised when nothing happens." 
    },
    {
       img: "images/hailily.png",
   name: "Dramatic Mermaid",
   backName: "Haillily",
   role: "Professional Tail-Flinger",
-  bio: "A glamorous mermaid who treats every tiny event like a Broadway performance.She gasps, flips her hair (&tail), and declares ‘This changes everything!’ even when someone just drops an oyster.The fishes clan both loves and fears her dramatic entrances on bicycle"
+  bio: "A glamorous mermaid who treats every tiny event like a Broadway performance.Gasps, flips her hair (&tail), and declares ‘This changes everything!’.The clan both loves and fears her dramatic entrances on bicycle"
    },
    {
-      img: "images/los.png",
+      img: "images/baller.png",
   name: "The Pirate Puffer",
   backName: "Baller los",
   role: "Treasure Hoarder & Accidental Intimidator",
-  bio: "A tiny green pufferfish who takes piracy very seriously… until he gets nervous and accidentally inflates into a round spiky balloon. He sits on piles of gold coins looking tough, but the moment someone says ‘boo’ he puffs up and floats away upside-down."
+  bio: "A tiny green pufferfish who takes piracy very seriously… He sits on piles of gold coins looking tough, but the moment someone says ‘boo’ he puffs up and floats away upside-down."
 }
 
 ];
