@@ -37,7 +37,14 @@ const ELDERS = [
     role: "The Runaway Dad",
     bio: "Used to be perfectly bald and perfectly loved. One rogue hair sprouted, one war started, and now he lives on the opposite shore looking permanently betrayed by his own follicle."
   },
-  {
+   {
+      img: "images/don.png",
+  name: "Don Pengucci",
+  backName: "哈利波特大",
+  role: "Underwater Boss Who Keeps Threatening to Retire",
+  bio: "A handsome gangster penguin who flawlessly rules the underwater world, bossily scolding everyone while dramatically threatening fake retirements. but wait? what's he doing here?"
+   },
+      {
     img: "images/iska.jpg",
     name: "Brainy Grandpa",
     backName: "Iska",
