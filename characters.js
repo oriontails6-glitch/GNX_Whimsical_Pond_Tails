@@ -283,7 +283,58 @@ const FISHES = [
       role: "The One Who Actually Has the Stats",
       bio: "The real Nemo of the clan… except this version is ridiculously overpowered and still runs around with his favourite little backpack, stuffing every shiny crystal he sees into it like a hyperactive collector."
 
-   }
+   },
+   {
+      img: "images/notnemo.png",
+  name: "Mexican Opossum-Fish",
+  backName: "Not Nemo",
+  role: "Overly Dramatic taco lover",
+  bio: "A flashy red fish who loves tacos and insists he is definitely NOT Nemo but a proud Mexican opossum-fish hybrid. No one has the heart to tell him opossums don’t live underwater."
+},
+   {
+      img: "images/xerox.png",
+  name: "The Fortnite Clownfish",
+  backName: "Xeroxx",
+  role: "Underwater Victory Royale Specialist",
+  bio: "A clownfish who somehow plays Fortnite…underwater.He builds forts out of coral,does the default dance after every win, and keeps asking the other fish if they want to squad up."
+},
+   {
+      
+      img: "images/assasin.png",
+  name: "The Killer Shark",
+  backName: "Assassin",
+  role: "Professional Menace of the Deep",
+  bio: "A sleek killer shark who takes his job very seriously. swims around with a permanent villainous grin, dramatically sharpening his teeth on rocks. Deep down he’s mostly just dramatic."
+},
+   {
+    img: "images/octopus.png",  
+  name: "The Fortune-Telling Octopus",
+  backName: "",
+  role: "Official Pond Fortune Teller",
+  bio: "A mysterious brown octopus who predicts the future with absolute confidence… and is wrong about 90% of the time. she waves his tentacles dramatically, declares ‘I sense great danger… or maybe snacks’, then pretends that was exactly what she meant all along."
+},
+   { 
+      img: "images/dory.png",
+      name: "The Blue Wizard Fish",
+ backName: "哈利波特大", 
+role: "Self-Proclaimed Underwater Wizard", 
+      bio: "A fancy blue fish who is convinced she went to Hogwarts (underwater version). she constantly tries to cast spells by yelling ‘Expelliarmus!’ at seaweed and then acts surprised when nothing happens. Still somehow the most confident and prettiest fish in the clan." 
+   },
+   {
+      img: "images/hailily.png",
+  name: "Dramatic Mermaid",
+  backName: "Haillily",
+  role: "Professional Tail-Flinger",
+  bio: "A glamorous mermaid who treats every tiny event like a Broadway performance.She gasps, flips her hair (&tail), and declares ‘This changes everything!’ even when someone just drops an oyster.The fishes clan both loves and fears her dramatic entrances on bicycle"
+   },
+   {
+      img: "images/los.png",
+  name: "The Pirate Puffer",
+  backName: "Baller los",
+  role: "Treasure Hoarder & Accidental Intimidator",
+  bio: "A tiny green pufferfish who takes piracy very seriously… until he gets nervous and accidentally inflates into a round spiky balloon. He sits on piles of gold coins looking tough, but the moment someone says ‘boo’ he puffs up and floats away upside-down."
+}
+
 ];
 
 /* ------------------------------------------------------------
