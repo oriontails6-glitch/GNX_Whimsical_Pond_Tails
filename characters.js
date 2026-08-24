@@ -272,7 +272,7 @@ const DUCKLINGS = [
   name: "The Playful Beeper",
   backName: "PAGERWISE",
   role: "The Always-On-Call fun Pager",
-  bio: "Kind to the core. He carries a tiny glowing pager that goes off at the worst possible moments, then politely excuses himself with ‘One moment please…’ even if no one actually called him. Never raises his voice — he just beeps and nods."
+  bio: "Kind to the core. He carries a tiny glowing pager that goes off at the worst possible moments, then politely excuses himself with ‘One moment please…’ even if no one actually called him."
 }
 ];
 
